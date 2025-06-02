@@ -2,5 +2,5 @@
 nombre = input("¿Cómo te llamas? ")
 
 # Imprime un saludo personalizado
-print("¡Hola, " + nombre y apellidos + "! Bienvenido a Python.")
+print("¡Hola sss, " + nombre  + "! Bienvenido a Python.")
 

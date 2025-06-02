@@ -2,4 +2,4 @@
 nombre = input("¿Cómo te llamas? ")
 
 # Imprime un saludo personalizado
-print("¡Hola grupo 9 de analisis de sistesmas de informacion, " + nombre  + "! Bienvenido a Python.")
+print("¡Hola grupo 9 de analisis de sistesmas de informacion, " + nombre  + "! Bienvenido a gestion de topologia.")
